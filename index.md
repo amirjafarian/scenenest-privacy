@@ -38,8 +38,9 @@ SceneNest relies on:
 
 - **Microsoft Azure** to host the SceneNest service and operational telemetry.
 - **The Movie Database (TMDB)** for movie and television catalogue information.
-- Streaming-provider websites or apps when you choose to open an external availability
-  link. Their own privacy policies apply after you leave SceneNest.
+- YouTube and streaming-provider websites or apps when you choose to open an external
+  trailer or availability link. Their own privacy policies apply after you leave
+  SceneNest.
 
 SceneNest does not sell your personal information and does not use third-party advertising
 SDKs in the mobile app. These service providers are expected to handle information under
