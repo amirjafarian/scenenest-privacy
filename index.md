@@ -14,10 +14,10 @@ SceneNest handles information when you use the mobile app.
 
 ### Information stored on your device
 
-Your watchlists, saved titles, viewing preferences, notes, recent search terms, and cached
-title information are stored locally on your device. The current beta does not provide cloud
-sync, so signing in does not upload or associate this local watchlist information with your
-account.
+Your watchlists, saved titles, viewing preferences, notes, titles recently opened from
+search, and cached title information are stored locally on your device. The current beta
+does not provide cloud sync, so signing in does not upload or associate this local
+watchlist information with your account.
 
 Deleting the app normally deletes its locally stored data. Device backups may retain a
 copy according to your Apple backup settings.
