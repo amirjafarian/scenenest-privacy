@@ -4,7 +4,7 @@ title: SceneNest Privacy Policy
 
 # SceneNest Privacy Policy
 
-**Effective date:** 23 July 2026
+**Effective date:** 30 July 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -14,12 +14,28 @@ SceneNest handles information when you use the mobile app.
 
 ### Information stored on your device
 
-Your watchlists, saved titles, viewing preferences, notes, and cached title information
-are stored locally on your device. The current beta does not provide an account or cloud
-sync, so SceneNest does not receive this local watchlist information.
+Your watchlists, saved titles, viewing preferences, notes, recent search terms, and cached
+title information are stored locally on your device. The current beta does not provide cloud
+sync, so signing in does not upload or associate this local watchlist information with your
+account.
 
 Deleting the app normally deletes its locally stored data. Device backups may retain a
 copy according to your Apple backup settings.
+
+### Optional account information
+
+You can use SceneNest without an account. If you choose to sign up or sign in, Microsoft
+Entra External ID processes your email address, password or other selected sign-in method,
+basic account profile, authentication events, and security information needed to operate
+the account. SceneNest receives limited profile information such as your display name and
+email address, optional first and last name, and an optional profile-picture URL, plus
+authentication tokens. The app may display that provider picture or, when it is unavailable,
+initials derived from your display name. Passwords are handled by Microsoft Entra and are not
+available to or stored by the SceneNest app.
+
+Authentication tokens are held in operating-system-protected storage and used only to
+maintain your session and prepare for future protected features. The current catalogue and
+configuration requests do not send those tokens to the SceneNest service.
 
 ### Information sent when you use online features
 
@@ -37,6 +53,8 @@ and title responses may be cached temporarily for reliability and performance.
 SceneNest relies on:
 
 - **Microsoft Azure** to host the SceneNest service and operational telemetry.
+- **Microsoft Entra External ID** to provide optional account sign-up, sign-in, session
+  security, and account records.
 - **The Movie Database (TMDB)** for movie and television catalogue information.
 - YouTube and streaming-provider websites or apps when you choose to open an external
   trailer or availability link. Their own privacy policies apply after you leave
@@ -49,8 +67,7 @@ their own privacy and security obligations.
 ## Children
 
 SceneNest is a general-audience watchlist app and is not directed to children under 13.
-The current beta does not knowingly collect names, contact details, or account profiles
-from children.
+SceneNest does not knowingly create or collect account profiles for children under 13.
 
 ## Security and international processing
 
@@ -60,16 +77,16 @@ providers' safeguards and terms.
 
 ## Your choices
 
-You can use saved watchlists offline. You can remove local information by deleting items
-in the app or uninstalling the app. Temporary catalogue caches and operational records
-are retained only as needed to provide, secure, and diagnose the service. To ask a privacy
-question or request access, correction, or deletion where applicable, contact the address
-below. Because the current beta has no account system, SceneNest may not be able to
-associate service records with a particular person.
+You can use saved watchlists offline and without signing in. Signing out removes the local
+account session but does not delete the External ID account or local lists. You can remove
+local information by deleting items in the app or uninstalling the app. Temporary catalogue
+caches and operational records are retained only as needed to provide, secure, and diagnose
+the service. To request access, correction, or deletion of an optional account, or to ask a
+privacy question, contact the address below.
 
 ## Changes to this policy
 
-This policy may be updated as SceneNest adds features such as sign-in or cloud sync. The
+This policy may be updated as SceneNest adds features such as cloud sync. The
 effective date above will change when the policy changes materially.
 
 ## Contact
