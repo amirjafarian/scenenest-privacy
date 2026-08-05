@@ -19,6 +19,10 @@ search, and cached title information are stored locally on your device. **If you
 sign in, none of it leaves your device** — SceneNest works fully offline and nothing about
 your library is sent anywhere.
 
+This includes the streaming services you choose under **My Streaming Services**, and the
+plan you pick for them. That choice stays on your device: it is never sent to SceneNest, is
+not used to identify you, and is not synced to your account even when you are signed in.
+
 Deleting the app normally deletes its locally stored data. Device backups may retain a
 copy according to your Apple backup settings.
 
