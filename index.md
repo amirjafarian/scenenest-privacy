@@ -4,7 +4,7 @@ title: SceneNest Privacy Policy
 
 # SceneNest Privacy Policy
 
-**Effective date:** 4 August 2026
+**Effective date:** 6 August 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -42,6 +42,20 @@ titles you recently opened from search. These stay on the device.
 
 Sync is used only to deliver your own library to your own devices. It is not used for
 advertising, profiling, or sharing with third parties.
+
+### Family Sharing you choose to enable
+
+If you create or join a Family Sharing group, SceneNest stores the group name, your group role,
+and the account relationship needed to authorize the group. An Owner may choose individual lists
+to share. The selected list's name, titles, basic title information, priority, "who to watch with"
+and notes are then sent to SceneNest and made available to the other signed-in members of that
+group. Changes to that selected list can sync between members' devices.
+
+Family Sharing does not make every list public: lists you do not select remain private to your own
+account and devices. Your overall watch status remains personal and is not shared with the group.
+Invite codes are one-time, expire, and are shown only to the Owner who creates one; SceneNest does
+not email them or retain their readable value after creation. Family Sharing is not used for
+advertising, profiling, or sharing outside the group you chose.
 
 ### Optional account information
 
@@ -143,8 +157,8 @@ privacy question, contact the address below.
 
 ## Changes to this policy
 
-This policy may be updated as SceneNest adds features such as family sharing. The
-effective date above will change when the policy changes materially.
+This policy may be updated as SceneNest adds features. The effective date above will change when
+the policy changes materially.
 
 ## Contact
 
