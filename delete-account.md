@@ -1,36 +1,35 @@
 ---
-title: Delete your SceneNest account
+title: Delete SceneNest cloud data or request full account deletion
 permalink: /delete-account/
 ---
 
-# Delete your SceneNest account
+# Delete SceneNest cloud data or request full account deletion
 
-You can permanently delete your optional **SceneNest** account from the app. SceneNest is published
-by **VSJ Technology**.
+You can permanently delete your optional **SceneNest cloud data** from the app. SceneNest is
+published by **VSJ Technology**.
 
 SceneNest works offline without an account. If you have never chosen to sign in, there is no account
 to delete — see [What stays on your device](#what-stays-on-your-device).
 
-## Delete your account in the app
+## Delete cloud data in the app
 
 1. Open **Account** in SceneNest.
-2. Tap **Delete account**.
+2. Tap **Delete cloud data**.
 3. Read and accept both confirmations.
 
-Deletion is permanent and cannot be undone. If the service is temporarily unavailable, SceneNest
-will tell you to try again and will not report that deletion succeeded until it has been confirmed.
+Cloud-data deletion is permanent and cannot be undone. If the service is temporarily unavailable,
+SceneNest will tell you to try again and will not report that deletion succeeded until it has been
+confirmed.
 
-If **Delete account** is not yet shown in your installed version, email
+If **Delete cloud data** is not yet shown in your installed version, email
 **[scenenest.privacy@outlook.com](mailto:scenenest.privacy@outlook.com)** from the address you use
-to sign in, with **Delete my account** in the subject line. We will confirm completion by email
-within 30 days.
+to sign in, with **Delete my SceneNest cloud data** in the subject line. We will confirm completion
+by email within 30 days.
 
 ## What is deleted
 
-Everything below is deleted permanently:
+The following SceneNest cloud data is deleted permanently:
 
-- **Your sign-in account** — held with Microsoft Entra External ID, including your email address
-  and the display name you chose at sign-up.
 - **Your SceneNest profile and synced watchlists** — the cloud copy of your lists, saved titles,
   and the sync history used to keep your signed-in devices in step.
 - **Family Sharing membership** — if you are an Editor, your membership is removed. If you own a
@@ -39,17 +38,22 @@ Everything below is deleted permanently:
 
 ## What is kept, and for how long
 
+- **Your Entra External ID sign-in identity** — the identity provider account, including your email
+  address and the display name you chose at sign-up, remains after cloud-data deletion. To request
+  its full deletion, email **[scenenest.privacy@outlook.com](mailto:scenenest.privacy@outlook.com)**
+  from the address you use to sign in with **Delete my full SceneNest account** in the subject line.
+  We will confirm completion by email within 30 days.
 - **Operational records** — records of requests to SceneNest, kept for **30 days** and then deleted
   automatically. They contain only one-way hashes of account/device/network values, never your
   name, email, or a reusable account identifier.
 - **Nothing else.** SceneNest does not sell your data or use it for advertising or profiling.
 
 Signing out is not deletion: it ends the session on that device and stops syncing, but leaves your
-account and cloud copy untouched.
+Entra sign-in identity and cloud copy untouched.
 
 ## What stays on your device
 
-Your device keeps its own copy of your lists so SceneNest works offline. Deleting an account does
+Your device keeps its own copy of your lists so SceneNest works offline. Deleting cloud data does
 not erase that local copy. To remove it, delete the items in the app or uninstall SceneNest.
 
 ## Questions

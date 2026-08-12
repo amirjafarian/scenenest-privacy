@@ -158,14 +158,17 @@ providers' safeguards and terms.
 
 You can use saved watchlists offline and without signing in. Signing out removes the local
 account session and stops syncing; it does not delete the External ID account, your local
-lists, or the copy already in your account. You can remove
-local information by deleting items in the app or uninstalling the app. Temporary catalogue
-caches and operational records are retained only as needed to provide, secure, and diagnose
-the service. To request access, correction, or deletion of an optional account, or to ask a
-privacy question, contact the address below.
+lists, or the copy already in your account. **Delete cloud data**, in the Account screen, permanently
+removes your SceneNest cloud profile, synced lists, and Family Sharing membership after two
+confirmations. It does not delete your Entra External ID sign-in identity or the local lists on
+your device. You can remove local information by deleting items in the app or uninstalling the app.
+Temporary catalogue caches and operational records are retained only as needed to provide, secure,
+and diagnose the service. To request access, correction, or full deletion of an optional account and
+sign-in identity, or to ask a privacy question, contact the address below.
 
-**To delete your account**, see [Delete your SceneNest account](/scenenest-privacy/delete-account/),
-which sets out the steps, what is deleted, and what is kept.
+**To delete cloud data or request full account deletion**, see
+[Delete your SceneNest cloud data](/scenenest-privacy/delete-account/), which sets out the steps,
+what is deleted, and what is kept.
 
 ## Changes to this policy
 
