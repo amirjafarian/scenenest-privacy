@@ -164,6 +164,9 @@ caches and operational records are retained only as needed to provide, secure, a
 the service. To request access, correction, or deletion of an optional account, or to ask a
 privacy question, contact the address below.
 
+**To delete your account**, see [Delete your SceneNest account](/scenenest-privacy/delete-account/),
+which sets out the steps, what is deleted, and what is kept.
+
 ## Changes to this policy
 
 This policy may be updated as SceneNest adds features. The effective date above will change when
