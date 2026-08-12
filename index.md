@@ -4,7 +4,7 @@ title: SceneNest Privacy Policy
 
 # SceneNest Privacy Policy
 
-**Effective date:** 6 August 2026
+**Effective date:** 12 August 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -62,10 +62,19 @@ advertising, profiling, or sharing outside the group you chose.
 You can use SceneNest without an account. If you choose to sign up or sign in, Microsoft
 Entra External ID processes your email address, password or other selected sign-in method,
 basic account profile, authentication events, and security information needed to operate
-the account. SceneNest receives limited profile information such as your display name and
-email address, optional first and last name, and an optional profile-picture URL, plus
-authentication tokens. The app may display that provider picture or, when it is unavailable,
-initials derived from your display name. Passwords are handled by Microsoft Entra and are not
+the account. **When you create an account you are asked for a display name**, which is the
+name other members of a Family Sharing group see; you choose what it says, and it does not
+have to be your real name. SceneNest receives limited profile information — that display name,
+your email address, and an optional profile-picture URL — plus authentication tokens. The app may
+display that provider picture or, when it is unavailable, initials derived from your display name.
+
+**SceneNest does not collect or store your first or last name.** Sign-up does not ask for them,
+and your account record holds only the display name you chose. If you sign in with Google or
+another provider that includes a first or last name in the sign-in response, the app uses it only
+in memory, to work out a name to show you when you have not set one — it is never written to your
+account and never leaves your device.
+
+Passwords are handled by Microsoft Entra and are not
 available to or stored by the SceneNest app.
 
 Authentication tokens are held in operating-system-protected storage and used only to
