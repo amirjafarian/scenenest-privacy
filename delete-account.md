@@ -20,6 +20,11 @@ to delete — see [What stays on your device](#what-stays-on-your-device).
 Deletion is permanent and cannot be undone. If the service is temporarily unavailable, SceneNest
 will tell you to try again and will not report that deletion succeeded until it has been confirmed.
 
+If **Delete account** is not yet shown in your installed version, email
+**[scenenest.privacy@outlook.com](mailto:scenenest.privacy@outlook.com)** from the address you use
+to sign in, with **Delete my account** in the subject line. We will confirm completion by email
+within 30 days.
+
 ## What is deleted
 
 Everything below is deleted permanently:
