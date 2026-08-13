@@ -4,7 +4,7 @@ title: SceneNest Privacy Policy
 
 # SceneNest Privacy Policy
 
-**Effective date:** 12 August 2026
+**Effective date:** 13 August 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -34,7 +34,7 @@ on that device** — they join your account rather than being replaced by it.
 What is sent: your list names, which titles are in which list, each title's basic
 information (name, year, poster, genres, rating, age rating, and its IMDb and provider
 identifiers), your per-list priority, "who to watch with" and notes, and each title's watch
-status.
+status and, where applicable, when it was most recently marked watched.
 
 What is **not** sent: streaming availability, plot synopses, your search history, and the
 titles you recently opened from search. These stay on the device.
