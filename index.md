@@ -15,9 +15,8 @@ SceneNest handles information when you use the mobile app.
 ### Information stored on your device
 
 Your watchlists, saved titles, viewing preferences, notes, titles recently opened from
-search, and cached title information are stored locally on your device. **If you never
-sign in, none of it leaves your device** — SceneNest works fully offline and nothing about
-your library is sent anywhere.
+search, and cached title information are stored locally on your device. You can use SceneNest
+fully offline without signing in.
 
 This includes the streaming services you choose under **My Streaming Services**, and the
 plan you pick for them. That choice stays on your device: it is never sent to SceneNest, is
