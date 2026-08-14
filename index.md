@@ -4,7 +4,7 @@ title: SceneNest Privacy Policy
 
 # SceneNest Privacy Policy
 
-**Effective date:** 13 August 2026
+**Effective date:** 14 August 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -33,8 +33,9 @@ on that device** — they join your account rather than being replaced by it.
 
 What is sent: your list names, which titles are in which list, each title's basic
 information (name, year, poster, genres, rating, age rating, and its IMDb and provider
-identifiers), your per-list priority, "who to watch with" and notes, and each title's watch
-status and, where applicable, when it was most recently marked watched.
+identifiers), your per-list priority, and each title's personal tracking: watch status, where
+applicable when it was most recently marked watched, your Like/Dislike/Love preference, and your
+**My note**. My note is one private note per title, even when the title is in several lists.
 
 What is **not** sent: streaming availability, plot synopses, your search history, and the
 titles you recently opened from search. These stay on the device.
@@ -46,12 +47,13 @@ advertising, profiling, or sharing with third parties.
 
 If you create or join a Family Sharing group, SceneNest stores the group name, your group role,
 and the account relationship needed to authorize the group. An Owner may choose individual lists
-to share. The selected list's name, titles, basic title information, priority, "who to watch with"
-and notes are then sent to SceneNest and made available to the other signed-in members of that
-group. Changes to that selected list can sync between members' devices.
+to share. The selected list's name, titles, basic title information, and priority are then sent to
+SceneNest and made available to the other signed-in members of that group. Changes to that selected
+list can sync between members' devices. Your watch status, Like/Dislike/Love preference, and My
+note remain private to your own account and devices; they are never shared with the group.
 
 Family Sharing does not make every list public: lists you do not select remain private to your own
-account and devices. Your overall watch status remains personal and is not shared with the group.
+account and devices. Your personal tracking remains personal and is not shared with the group.
 Invite codes are one-time, expire, and are shown only to the Owner who creates one; SceneNest does
 not email them or retain their readable value after creation. Family Sharing is not used for
 advertising, profiling, or sharing outside the group you chose.
