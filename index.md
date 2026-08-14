@@ -36,10 +36,12 @@ identifiers), your per-list priority, each title's personal tracking: watch stat
 applicable when it was most recently marked watched, your Like/Dislike/Love preference, and your
 **My note**. My note is one private note per title, even when the title is in several lists. We
 also sync your complete **My Streaming Services** selection and any selected plan tier so it is
-available on your other signed-in devices.
+available on your other signed-in devices. For saved titles, SceneNest also syncs the latest
+streaming-availability snapshot, the country it applies to, and when it was checked so your
+By Service view stays consistent across your signed-in devices.
 
-What is **not** sent: streaming availability, plot synopses, your search history, and the
-titles you recently opened from search. These stay on the device.
+What is **not** sent: plot synopses, your search history, and the titles you recently opened from
+search. These stay on the device.
 
 Sync is used only to deliver your own library and service preferences to your own devices. It is not used for
 advertising, profiling, or sharing with third parties.
@@ -48,10 +50,11 @@ advertising, profiling, or sharing with third parties.
 
 If you create or join a Family Sharing group, SceneNest stores the group name, your group role,
 and the account relationship needed to authorize the group. An Owner may choose individual lists
-to share. The selected list's name, titles, basic title information, and priority are then sent to
-SceneNest and made available to the other signed-in members of that group. Changes to that selected
-list can sync between members' devices. Your watch status, Like/Dislike/Love preference, and My
-note remain private to your own account and devices; they are never shared with the group.
+to share. The selected list's name, titles, basic title information, priority, and latest
+country-specific streaming-availability snapshots are then sent to SceneNest and made available to
+the other signed-in members of that group. Changes to that selected list can sync between members'
+devices. Your watch status, Like/Dislike/Love preference, and My note remain private to your own
+account and devices; they are never shared with the group.
 
 Family Sharing does not make every list public: lists you do not select remain private to your own
 account and devices. Your personal tracking remains personal and is not shared with the group.
