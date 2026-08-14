@@ -4,7 +4,7 @@ title: SceneNest Privacy Policy
 
 # SceneNest Privacy Policy
 
-**Effective date:** 14 August 2026
+**Effective date:** 15 August 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -19,8 +19,7 @@ search, and cached title information are stored locally on your device. You can 
 fully offline without signing in.
 
 This includes the streaming services you choose under **My Streaming Services**, and the
-plan you pick for them. That choice stays on your device: it is never sent to SceneNest, is
-not used to identify you, and is not synced to your account even when you are signed in.
+plan you pick for them. When you are signed out, that choice stays on your device.
 
 Deleting the app normally deletes its locally stored data. Device backups may retain a
 copy according to your Apple backup settings.
@@ -33,14 +32,16 @@ on that device** — they join your account rather than being replaced by it.
 
 What is sent: your list names, which titles are in which list, each title's basic
 information (name, year, poster, genres, rating, age rating, and its IMDb and provider
-identifiers), your per-list priority, and each title's personal tracking: watch status, where
+identifiers), your per-list priority, each title's personal tracking: watch status, where
 applicable when it was most recently marked watched, your Like/Dislike/Love preference, and your
-**My note**. My note is one private note per title, even when the title is in several lists.
+**My note**. My note is one private note per title, even when the title is in several lists. We
+also sync your complete **My Streaming Services** selection and any selected plan tier so it is
+available on your other signed-in devices.
 
 What is **not** sent: streaming availability, plot synopses, your search history, and the
 titles you recently opened from search. These stay on the device.
 
-Sync is used only to deliver your own library to your own devices. It is not used for
+Sync is used only to deliver your own library and service preferences to your own devices. It is not used for
 advertising, profiling, or sharing with third parties.
 
 ### Family Sharing you choose to enable
@@ -68,15 +69,13 @@ name other members of a Family Sharing group see; you choose what it says, and i
 have to be your real name. SceneNest receives limited profile information — that display name,
 your email address, and an optional profile-picture URL — plus authentication tokens. The app may
 display that provider picture or, when it is unavailable, initials derived from your display name.
+Passwords are handled by Microsoft Entra and are not available to or stored by the SceneNest app.
 
 **SceneNest does not collect or store your first or last name.** Sign-up does not ask for them,
 and your account record holds only the display name you chose. If you sign in with Google or
 another provider that includes a first or last name in the sign-in response, the app uses it only
 in memory, to work out a name to show you when you have not set one — it is never written to your
 account and never leaves your device.
-
-Passwords are handled by Microsoft Entra and are not
-available to or stored by the SceneNest app.
 
 Authentication tokens are held in operating-system-protected storage and used only to
 maintain your session and prepare for future protected features. The current catalogue and
@@ -159,22 +158,22 @@ providers' safeguards and terms.
 
 You can use saved watchlists offline and without signing in. Signing out removes the local
 account session and stops syncing; it does not delete the External ID account, your local
-lists, or the copy already in your account. **Delete cloud data**, in the Account screen, permanently
-removes your SceneNest cloud profile, synced lists, and Family Sharing membership after two
-confirmations. It does not delete your Entra External ID sign-in identity or the local lists on
-your device. You can remove local information by deleting items in the app or uninstalling the app.
-Temporary catalogue caches and operational records are retained only as needed to provide, secure,
-and diagnose the service. To request access, correction, or full deletion of an optional account and
-sign-in identity, or to ask a privacy question, contact the address below.
-
-**To delete cloud data or request full account deletion**, see
-[Delete your SceneNest cloud data](/scenenest-privacy/delete-account/), which sets out the steps,
-what is deleted, and what is kept.
+lists, or the copy already in your account. When **Account → Delete cloud data** is available in
+your installed app version, you can permanently remove your SceneNest cloud profile, synced lists,
+and Family Sharing membership by completing two confirmations. This does not delete your Entra
+External ID sign-in identity or your device's local lists. If you own a Family Sharing group with
+other members, ownership transfers to one of them and shared lists remain available; if you are its
+only member, the group and shared lists are removed. Email the contact below to request full account
+and sign-in identity deletion, or if the cloud-data option is not in your installed app version.
+Your device's local lists remain unless you delete them or uninstall the app. Operational records
+retain only one-way hashes and expire after 30 days. To request access or correction, or ask a
+privacy question, contact the address below.
 
 ## Changes to this policy
 
 This policy may be updated as SceneNest adds features. The effective date above will change when
 the policy changes materially.
+
 
 ## Contact
 
