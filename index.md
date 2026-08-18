@@ -53,8 +53,8 @@ and the account relationship needed to authorize the group. An Owner may choose 
 to share. The selected list's name, titles, basic title information, priority, and latest
 country-specific streaming-availability snapshots are then sent to SceneNest and made available to
 the other signed-in members of that group. Changes to that selected list can sync between members'
-devices. Your watch status, Like/Dislike/Love preference, and My note remain private to your own
-account and devices; they are never shared with the group.
+devices. Your watch status, Like/Dislike/Love preference, and My
+note remain private to your own account and devices; they are never shared with the group.
 
 Family Sharing does not make every list public: lists you do not select remain private to your own
 account and devices. Your personal tracking remains personal and is not shared with the group.
@@ -94,6 +94,13 @@ streaming results.
 The service may process limited technical information, such as request timing, outcome,
 and IP-derived network information, to operate, secure, and diagnose the service. Search
 and title responses may be cached temporarily for reliability and performance.
+
+Home's **Inspired by your favourites** row works the same way. It is built from titles you
+watched and explicitly reacted Love to, but that choice never leaves your device: the app sends
+the service only one existing catalogue title's id at a time, asking "what is related to this
+title" — never your account, your watchlists, which titles you loved, or which results you
+already have. Deciding what to show you, and excluding anything you already saved, watched, or
+disliked, all happens on the device.
 
 ### Verifying that requests come from the genuine app (iPhone and iPad)
 
