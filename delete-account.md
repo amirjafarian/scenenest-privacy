@@ -6,7 +6,7 @@ permalink: /delete-account/
 # Delete SceneNest cloud data or request full account deletion
 
 You can permanently delete your optional **SceneNest cloud data** from the app. SceneNest is
-published by **VSJ Technology**.
+published by **VSJ Frontier**.
 
 SceneNest works offline without an account. If you have never chosen to sign in, there is no account
 to delete — see [What stays on your device](#what-stays-on-your-device).
@@ -59,6 +59,6 @@ not erase that local copy. To remove it, delete the items in the app or uninstal
 ## Questions
 
 Email **[scenenest.privacy@outlook.com](mailto:scenenest.privacy@outlook.com)**. The full privacy
-policy is at <https://amirjafarian.github.io/scenenest-privacy/>.
+policy is at <https://vsjfrontier.com/privacy/>.
 
-SceneNest is operated from Australia.
+SceneNest is operated from Australia by VSJ Frontier.
