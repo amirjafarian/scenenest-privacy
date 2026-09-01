@@ -184,7 +184,11 @@ separately verifies and approves that identity deletion before performing it; th
 does not hold a tenant-wide directory-deletion permission. If the option is not available in your
 installed app version, email the contact below to request full account deletion. Your device's local
 lists remain unless you delete them or uninstall the app. Operational records retain only one-way
-hashes and expire after 30 days. To request access or correction, or ask a privacy question, contact
+hashes and expire after 30 days. To prove that a full-account-deletion request was handled, we also
+retain the Entra object ID, request/completion times, and the Entra audit-event ID for 30 days; we
+do not retain your email address in those records. We send the completion confirmation manually to
+the verified email address on the Entra identity before it is deleted; we do not use an address from
+a support request. To request access or correction, or ask a privacy question, contact
 the address below.
 
 ## Changes to this policy

@@ -38,7 +38,8 @@ verifies and approves the identity deletion before performing it. The SceneNest 
 not hold a tenant-wide directory-deletion permission. If this option is not available in your
 installed version, email **[scenenest.privacy@outlook.com](mailto:scenenest.privacy@outlook.com)**
 from the address you use to sign in with **Delete my full SceneNest account** in the subject line.
-We will confirm completion by email within 30 days.
+We will confirm completion by email within 30 days at the verified email address on the Entra
+identity—not an address supplied in a support request.
 
 ## What is deleted
 
@@ -60,7 +61,9 @@ The following SceneNest cloud data is deleted permanently:
   We will confirm completion by email within 30 days.
 - **Operational records** — records of requests to SceneNest, kept for **30 days** and then deleted
   automatically. They contain only one-way hashes of account/device/network values, never your
-  name, email, or a reusable account identifier.
+  name, email, or a reusable account identifier. Full-account-deletion requests also retain the
+  Entra object ID, request/completion times, and the Entra audit-event ID for that same 30-day
+  period. We do not retain an email address in those records.
 - **Nothing else.** SceneNest does not sell your data or use it for advertising or profiling.
 
 Signing out is not deletion: it ends the session on that device and stops syncing, but leaves your
