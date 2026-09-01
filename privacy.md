@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 15 August 2026
+**Effective date:** 1 September 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -176,11 +176,16 @@ your installed app version, you can permanently remove your SceneNest cloud prof
 and Family Sharing membership by completing two confirmations. This does not delete your Entra
 External ID sign-in identity or your device's local lists. If you own a Family Sharing group with
 other members, ownership transfers to one of them and shared lists remain available; if you are its
-only member, the group and shared lists are removed. Email the contact below to request full account
-and sign-in identity deletion, or if the cloud-data option is not in your installed app version.
-Your device's local lists remain unless you delete them or uninstall the app. Operational records
-retain only one-way hashes and expire after 30 days. To request access or correction, or ask a
-privacy question, contact the address below.
+only member, the group and shared lists are removed.
+
+**Account → Request full account deletion** permanently removes that same SceneNest cloud data and
+records a request to delete the Entra External ID sign-in identity. A SceneNest administrator
+separately verifies and approves that identity deletion before performing it; the mobile service
+does not hold a tenant-wide directory-deletion permission. If the option is not available in your
+installed app version, email the contact below to request full account deletion. Your device's local
+lists remain unless you delete them or uninstall the app. Operational records retain only one-way
+hashes and expire after 30 days. To request access or correction, or ask a privacy question, contact
+the address below.
 
 ## Changes to this policy
 
