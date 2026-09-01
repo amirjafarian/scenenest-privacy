@@ -34,11 +34,13 @@ signed-in devices. **Signing in for the first time uploads the watchlists you al
 on that device** — they join your account rather than being replaced by it.
 
 What is sent: your list names, which titles are in which list, each title's basic
-information (name, year, poster, genres, rating, age rating, and its IMDb and provider
-identifiers), your per-list priority, each title's personal tracking: watch status, where
+information (name, year, poster, genres, rating, age rating, how long it runs, its season and
+episode counts, and its IMDb and provider identifiers), your per-list priority, each title's
+personal tracking: watch status, **which seasons of a series you have marked watched**, where
 applicable when it was most recently marked watched, your Like/Dislike/Love preference, and your
 **My note**. My note is one private note per title, even when the title is in several lists. We
-also sync your complete **My Streaming Services** selection and any selected plan tier so it is
+also sync your complete **My Streaming Services** selection and any selected plan tier, and the
+**My Watch Time** figure you set — roughly how many hours a week you expect to watch — so they are
 available on your other signed-in devices. For saved titles, SceneNest also syncs the latest
 streaming-availability snapshot, the country it applies to, and when it was checked so your
 By Service view stays consistent across your signed-in devices.
@@ -56,8 +58,12 @@ and the account relationship needed to authorize the group. An Owner may choose 
 to share. The selected list's name, titles, basic title information, priority, and latest
 country-specific streaming-availability snapshots are then sent to SceneNest and made available to
 the other signed-in members of that group. Changes to that selected list can sync between members'
-devices. Your watch status, Like/Dislike/Love preference, and My
-note remain private to your own account and devices; they are never shared with the group.
+devices. A selected shared-list item can also say that it has been completed by someone in the
+group, so household subscription advice does not keep counting it as still to watch. That fact does
+not identify who watched it and does not reveal any member's detailed watch status, seasons,
+progress, reaction, note, or viewing history. Your watch status, which seasons you have watched,
+your Like/Dislike/Love preference, your My Watch Time figure, and your My note remain private to
+your own account and devices; they are never shared with the group.
 
 Family Sharing does not make every list public: lists you do not select remain private to your own
 account and devices. Your personal tracking remains personal and is not shared with the group.
