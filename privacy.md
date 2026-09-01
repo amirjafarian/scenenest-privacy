@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 1 September 2026
+**Effective date:** 2 September 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -44,6 +44,15 @@ also sync your complete **My Streaming Services** selection and any selected pla
 available on your other signed-in devices. For saved titles, SceneNest also syncs the latest
 streaming-availability snapshot, the country it applies to, and when it was checked so your
 By Service view stays consistent across your signed-in devices.
+
+For a service you have described further under **My Streaming Services**, we also sync whether it
+comes included with something else, is prepaid to a renewal date, or is a plan you can cancel
+month to month; that renewal date; and, only if you choose to enter it, the monthly amount you pay
+and its currency. We use this only to give more accurate advice about which subscriptions are
+worth keeping, never to infer or estimate a price you have not told us. Separately, if the planner
+suggests a service you have kept anyway, we remember that answer for a few months so it does not
+ask again too soon — this record says only "not now" or "I'm keeping it" and for which service, and
+carries no financial information of its own.
 
 What is **not** sent: plot synopses, your search history, and the titles you recently opened from
 search. These stay on the device.
@@ -201,7 +210,6 @@ the address below.
 
 This policy may be updated as SceneNest adds features. The effective date above will change when
 the policy changes materially.
-
 
 ## Contact
 
