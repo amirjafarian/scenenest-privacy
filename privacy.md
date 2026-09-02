@@ -52,7 +52,12 @@ and its currency. We use this only to give more accurate advice about which subs
 worth keeping, never to infer or estimate a price you have not told us. Separately, if the planner
 suggests a service you have kept anyway, we remember that answer for a few months so it does not
 ask again too soon — this record says only "not now" or "I'm keeping it" and for which service, and
-carries no financial information of its own.
+carries no financial information of its own. If you confirm that you cancelled a service the
+planner suggested, we keep a record of that: which service, when, what you told us it cost at the
+time, and, when it recorded one, how many saved titles retired with it — so the app can show you
+what following its advice has actually saved. This record is never created from a service simply
+disappearing from your selection on its own; only from you confirming it. If you add the service
+back, the record shows that gap rather than continuing to count savings past that date.
 
 What is **not** sent: plot synopses, your search history, and the titles you recently opened from
 search. These stay on the device.
