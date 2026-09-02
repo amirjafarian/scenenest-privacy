@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 2 September 2026
+**Effective date:** 3 September 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -35,15 +35,19 @@ on that device** — they join your account rather than being replaced by it.
 
 What is sent: your list names, which titles are in which list, each title's basic
 information (name, year, poster, genres, rating, age rating, how long it runs, its season and
-episode counts, and its IMDb and provider identifiers), your per-list priority, each title's
+episode counts, and its IMDb and provider identifiers), the priority you give a title within a
+list, each title's
 personal tracking: watch status, **which seasons of a series you have marked watched**, where
 applicable when it was most recently marked watched, your Like/Dislike/Love preference, and your
 **My note**. My note is one private note per title, even when the title is in several lists. We
 also sync your complete **My Streaming Services** selection and any selected plan tier, and the
 **My Watch Time** figure you set — roughly how many hours a week you expect to watch — so they are
-available on your other signed-in devices. For saved titles, SceneNest also syncs the latest
-streaming-availability snapshot, the country it applies to, and when it was checked so your
-By Service view stays consistent across your signed-in devices.
+available on your other signed-in devices. We also sync which of your lists you have marked as a
+**priority list**, so the planner can base its subscription advice on the titles you actually mean
+to watch. This is your own setting: a list shared with your family group can be a priority list for
+you and not for another member, and your answer is never visible to them. For saved titles,
+SceneNest also syncs the latest streaming-availability snapshot, the country it applies to, and when
+it was checked so your By Service view stays consistent across your signed-in devices.
 
 For a service you have described further under **My Streaming Services**, we also sync whether it
 comes included with something else, is prepaid to a renewal date, or is a plan you can cancel
