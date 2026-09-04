@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 3 September 2026
+**Effective date:** 4 September 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -164,6 +164,37 @@ where it goes.
 You can also copy the log yourself from Files → On My iPhone → SceneNest, and delete it
 there.
 
+### Push notifications you choose to receive
+
+Push notifications are **off unless you turn them on**. When you enable **Push Notifications** on
+the Account screen and allow notifications at the operating-system prompt, SceneNest stores a push
+token for that device so it can reach it, and starts telling you when a title you saved becomes
+available to stream on one of the services you selected.
+
+**What the notification contains.** When one saved title arrives, the notification names it and the
+service — for example, "Interstellar is now on Netflix." When several arrive at once, it says only
+how many ("3 saved titles are now streaming."). The notification also carries the identifier of the
+saved title so that tapping it opens the right page. **This text is delivered by Apple and Google,
+and your device may display it on the lock screen before the device is unlocked.** If you would
+rather a saved title's name not appear there, you can turn notifications off in the app or restrict
+lock-screen previews in your device's own notification settings.
+
+**Who handles it.** The notification is sent through **Microsoft Azure Notification Hubs** and
+delivered by **Apple Push Notification service** (iPhone and iPad) or **Google Firebase Cloud
+Messaging** (Android), acting as delivery providers on our behalf. Its text passes through them.
+These providers were not previously in the path of any SceneNest information.
+
+**What is stored.** SceneNest stores each notification-enabled device's push token, and — so you are
+not told about the same arrival twice — a record of which of your saved titles have already been
+notified, on which service, and when. Those records are automatically deleted after 30 days. Your
+watchlists themselves are not sent to Apple or Google.
+
+**How to stop it.** Turning **Push Notifications** off on the Account screen switches notifications
+off for your whole account, on every device, and takes effect immediately. You can also turn
+SceneNest notifications off in your device's own settings. Notifications are never used for
+advertising, marketing, or profiling; the only thing they are used for is telling you about titles
+you saved.
+
 ## Third-party services
 
 SceneNest relies on:
@@ -172,6 +203,9 @@ SceneNest relies on:
 - **Microsoft Entra External ID** to provide optional account sign-up, sign-in, session
   security, and account records.
 - **The Movie Database (TMDB)** for movie and television catalogue information.
+- **Apple Push Notification service** and **Google Firebase Cloud Messaging**, only if you turn on
+  push notifications, to deliver those notifications to your device. See *Push notifications you
+  choose to receive* above.
 - YouTube and streaming-provider websites or apps when you choose to open an external
   trailer or availability link. Their own privacy policies apply after you leave
   SceneNest.
